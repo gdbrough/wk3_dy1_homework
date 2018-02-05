@@ -46,7 +46,7 @@ DELETE FROM people WHERE name = 'Jeff Bridges';
 INSERT INTO movies (title, year) VALUES ('Avengers: Infinity War', 2018);
 
 9. The cinema would also like to make the Guardian movies a back to back feature. Update the 'Guardians of the Galaxy' show time from 15:30 to 20:00
-UPDATE movies SET show_time = '15:30' where id = 11;
+UPDATE movies SET show_time = '23:00' where id = 11;
 
 ## Extension
 
